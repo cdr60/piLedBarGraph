@@ -1,5 +1,6 @@
 # piLedBarGraph
 Test a Led bar Graph using python on a RaspberryPi
+The program is very simple and will blink each Led 
 
 Here is the electonics schema
 Use 220 ohms resistors for each Led
